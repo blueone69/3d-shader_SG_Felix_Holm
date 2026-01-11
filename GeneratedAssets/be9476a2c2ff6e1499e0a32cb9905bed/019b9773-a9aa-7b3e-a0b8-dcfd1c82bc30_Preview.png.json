@@ -1,0 +1,11 @@
+{
+    "asset": "be9476a2c2ff6e1499e0a32cb9905bed",
+    "fileName": "019b9773-a9aa-7b3e-a0b8-dcfd1c82bc30_Preview.png",
+    "prompt": "checkers pattern, different coloured squares\n",
+    "negativePrompt": "lines",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 431488145,
+    "w3CTraceId": "878c1fa5dabe51f60dd1aa6a3dfee51d",
+    "refinementMode": "Generation"
+}

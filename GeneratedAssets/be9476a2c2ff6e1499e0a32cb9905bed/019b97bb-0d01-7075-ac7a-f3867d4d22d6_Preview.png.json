@@ -1,0 +1,11 @@
+{
+    "asset": "be9476a2c2ff6e1499e0a32cb9905bed",
+    "fileName": "019b97bb-0d01-7075-ac7a-f3867d4d22d6_Preview.png",
+    "prompt": "A high-contrast geometric radial pattern starting from a singular point in the exact center. Intricate concentric circles and symmetrical mandalas radiating outward. Monochromatic black and white, clean lines, vector art style, perfectly centered, symmetrical balance, white background.",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1513718281,
+    "w3CTraceId": "dbf7efe5970b1f5aa867dc6fb24e62c2",
+    "refinementMode": "Generation"
+}

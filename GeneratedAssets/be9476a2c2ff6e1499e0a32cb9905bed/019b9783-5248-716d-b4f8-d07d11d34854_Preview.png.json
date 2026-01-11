@@ -1,0 +1,11 @@
+{
+    "asset": "be9476a2c2ff6e1499e0a32cb9905bed",
+    "fileName": "019b9783-5248-716d-b4f8-d07d11d34854_Preview.png",
+    "prompt": "A circle pattern starting from the center\n",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1373573868,
+    "w3CTraceId": "871472f4ef2248a3e0d3e1a9299cd10d",
+    "refinementMode": "Generation"
+}
